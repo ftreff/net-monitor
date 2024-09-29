@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# THIS IS AN OLD VERSION FROM 4/22/2024, i have updated the code to v2.5 on 9/29/24, this updated code included a internet speed test every 60 minuntes.
+
 #Change Log
 #v1      code based on internet example and edited
 #v1.1    added log file

@@ -19,12 +19,17 @@ Eversince I wrote this scipt I have near 100% internet uptime.
 Hardware used with this script:
 
 Raspbarry Pi 3B
+
 ![image](https://github.com/user-attachments/assets/82c20307-4aba-4e3a-829b-a06413a2a232)
 
 USB 2.0 A Screw Terminal Block Connector USB 2.0 A Male Plug to 5 Pin/Way Female Bolt Screw Shield Terminals
+
 Amazon - ASIN	B07H53X194
+
 ![image](https://github.com/user-attachments/assets/a0ce6af9-efe2-4a3f-8acb-775b1bb92176)
 
 Iot Relay - Enclosed High-Power Power Relay
+
 Amazon - ASIN	B00WV7GMA2
+
 ![image](https://github.com/user-attachments/assets/1cff10ca-20e1-472c-be56-b1cac4c1d8dd)
